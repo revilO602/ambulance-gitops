@@ -9,7 +9,7 @@ commonLabels:
   app.kubernetes.io/part-of: wac-hospital
 
 resources:
-- ../../../apps/ol-ambulance-ufe
+  - ../../../apps/ol-ambulance-ufe
 
 components:
- - ../../../components/version-developers
+  - ../../../components/version-developers
