@@ -6,7 +6,7 @@ metadata:
 spec:
  interval: 1m0s
  ref:
-     branch: main
+     branch: master
  timeout: 1m0s
  url: https://github.com/revilO602/ambulance-gitops
 
