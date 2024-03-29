@@ -16,7 +16,7 @@ spec:
           value: bobulova
       path: ol-ambulance-wl # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: Zoznam čakajúcich ol # názov mikro aplikácie
-      details: Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii
+      details: Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii. Made by Oliver Leontiev.
   preload: false # určuje, či má byť web komponent načítaný spolu s hlavnou stránkou
   proxy:
     true # pre komponenty v rámci klastra, neprístupné na verejnej sieti
