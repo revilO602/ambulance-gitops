@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: revilo602/ambulance-wl-webapi
   newName: revilo602/ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+  newTag: main.20240406.1007 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
 - name: revilo602/ambulance-ufe
   newName: revilo602/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
   newTag: master.20240406.0626 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
