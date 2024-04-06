@@ -15,4 +15,6 @@ resources:
  - ambulance-ufe.image-policy.yaml
  - ufe-controller.image-repository.yaml
  - ufe-controller.image-policy.yaml
+ - ambulance-webapi.image-repository.yaml
+ - ambulance-webapi.image-policy.yaml  
  - image-update-automation.yaml

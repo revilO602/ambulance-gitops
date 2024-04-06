@@ -10,6 +10,11 @@ commonLabels:
 
 resources:
   - ../../../apps/ol-ambulance-ufe
+  - ../../../apps/ol-ambulance-webapi
 
 components:
   - ../../../components/version-developers
+  - https://github.com/revilO602/ambulance-webapi//deployments/kustomize/components/mongodb
+
+patches:
+ - path: patches/ambulance-webapi.service.yaml
